@@ -6,7 +6,7 @@
 🔖 Who Am I?
 Name: Suniyan Jana
 Languages: C, C++, Java & JavaScript
-Interests: AI, Open Source, Backend Development
+Interests: Software Development, AI Tools
 Current Focus: AI Based Automation Projects & Open Source Contributions
 Hobbies: Movies, Reading, and Exploring New Technologies
 Fun Fact: I Like Exploring New Technologies More Than Sleeping Sometimes

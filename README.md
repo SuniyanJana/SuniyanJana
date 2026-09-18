@@ -77,3 +77,13 @@
 </div>
 
 ###
+
+###
+
+<h3 align="left">🐍 Contribution Snake</h3>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SuniyanJana/SuniyanJana/output/snake.svg" alt="Snake animation" />
+</div>

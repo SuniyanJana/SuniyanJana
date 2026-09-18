@@ -66,9 +66,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-### 
-
-<h3 align="left">🐍 Contribution Snake</h3>
+### 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/SuniyanJana/SuniyanJana/gh-pages/snake.svg" alt="Snake animation" />

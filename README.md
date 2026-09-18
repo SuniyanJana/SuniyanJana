@@ -69,5 +69,5 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SuniyanJana/SuniyanJana/gh-pages/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/SuniyanJana/SuniyanJana/main/dist/snake.svg" alt="Snake animation" />
 </div>

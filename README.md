@@ -77,3 +77,7 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="./assets/blue-wave.svg" width="100%" alt="Blue animated wave" />
+</div>

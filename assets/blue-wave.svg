@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="854" height="100" viewBox="0 0 854 100"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     role="img"
+     aria-label="Animated blue waving footer banner">
+  <title>Animated blue waving footer banner</title>
+  <desc>Two semi-transparent blue waves animate along the bottom of a transparent 854 by 100 pixel canvas.</desc>
+
+  <g transform="rotate(180 427 50 )">
+    <path
+      d="M0 0L0 20Q213.5 60 427 30T854 55L854 0Z"
+      fill="#0e8fff"
+      opacity="0.4">
+      <animate
+        attributeName="d"
+        dur="20s"
+        repeatCount="indefinite"
+        keyTimes="0;0.333;0.667;1"
+        calcMode="spline"
+        keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+        begin="0s"
+        values="M0 0L0 20Q213.5 60 427 30T854 55L854 0Z;
+                M0 0L0 45Q213.5 60 427 40T854 30L854 0Z;
+                M0 0L0 65Q213.5 35 427 65T854 30L854 0Z;
+                M0 0L0 20Q213.5 60 427 30T854 55L854 0Z" />
+    </path>
+
+    <path
+      d="M0 0L0 35Q213.5 80 427 50T854 60L854 0Z"
+      fill="#0e8fff"
+      opacity="0.4">
+      <animate
+        attributeName="d"
+        dur="20s"
+        repeatCount="indefinite"
+        keyTimes="0;0.333;0.667;1"
+        calcMode="spline"
+        keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+        begin="-10s"
+        values="M0 0L0 35Q213.5 80 427 50T854 60L854 0Z;
+                M0 0L0 50Q213.5 20 427 20T854 40L854 0Z;
+                M0 0L0 45Q213.5 25 427 50T854 65L854 0Z;
+                M0 0L0 35Q213.5 80 427 50T854 60L854 0Z" />
+    </path>
+  </g>
+</svg>

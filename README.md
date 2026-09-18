@@ -11,6 +11,12 @@
 
 ###
 
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=SuniyanJana.SuniyanJana&"  />
+</div>
+
+###
+
 <h1 data-importer="text" align="center">hey there 👋</h1>
 
 ###
@@ -19,7 +25,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Suniyan from Kolkata, West Bengal<br><br>- 🔭 I’m a student of Computer Science and Engineering<br>- 📚 I'm currently working on my Full Stack Project<br>- ⚡ In my free time I like to watch cinema and listen music</p>
+<p data-importer="text" align="left">I'm Suniyan from Kolkata<br><br>- 🔭 I’m working on personal projects that turn ideas into real-world applications<br>- 📚 I’m currently exploring full-stack development and modern JavaScript technologies<br>- ⚡ In my free time I like to watch cinema and listen music</p>
 
 ###
 
@@ -44,11 +50,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
@@ -58,5 +64,11 @@
 ###
 
 <h3 data-importer="text" align="left">🔥   My Stats :</h3>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=SuniyanJana&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###

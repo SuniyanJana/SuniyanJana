@@ -66,8 +66,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-### 🐍 Contribution Snake
+###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SuniyanJana/SuniyanJana/main/dist/snake.svg" alt="Snake animation" />
+<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=SuniyanJana&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###

@@ -22,11 +22,11 @@
 
 ###
 
-<h1 data-importer="text" align="center" style="border-bottom: none;">hey there 👋</h1>
+<h3 data-importer="text" align="center">hey there 👋</h3>
 
 ###
 
-<h2 data-importer="text" align="left" style="border-bottom: none;">👩‍💻  About Me</h2>
+<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h2 data-importer="text" align="left" style="border-bottom: none;">🛠 Language and tools</h2>
+<h3 data-importer="text" align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -68,7 +68,7 @@
 
 ###
 
-<h2 data-importer="text" align="left" style="border-bottom: none;">🔥   My Contributions :</h2>
+<h3 data-importer="text" align="left">🔥   My Contributions :</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"

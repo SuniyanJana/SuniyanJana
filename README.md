@@ -23,7 +23,7 @@
 ###
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=hey%20there&fontSize=20&fontColor=ffffff&height=45&fontAlign=50&fontAlignY=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=hey%20there%20👋&fontSize=20&fontColor=ffffff&height=45&fontAlign=50&fontAlignY=50" width="100%" />
 </div>
 
 ###

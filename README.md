@@ -78,6 +78,17 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/SuniyanJana/SuniyanJana/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/SuniyanJana/SuniyanJana/output/github-snake.svg" />
+  <img alt="github contribution snake animation"
+    src="https://raw.githubusercontent.com/SuniyanJana/SuniyanJana/output/github-snake.svg" />
+</picture>
+
+###
+
 <div align="center">
   <img src="./assets/blue-wave.svg" width="100%" alt="Blue animated wave" />
 </div>

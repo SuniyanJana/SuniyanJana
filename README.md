@@ -68,15 +68,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=SuniyanJana&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+<h3 data-importer="text" align="left">🔥   My Contributions :</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"

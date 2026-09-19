@@ -2,6 +2,7 @@
   <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+###
 
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/suniyan-jana/" target="_blank">
@@ -13,28 +14,29 @@
   </a>
 </div>
 
+###
 
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=SuniyanJana.SuniyanJana&"  />
 </div>
 
+###
 
+<h1 data-importer="text" align="center" style="border-bottom: none;">hey there 👋</h1>
 
-<h1 data-importer="text" align="center">hey there 👋</h1>
+###
 
+<h2 data-importer="text" align="left" style="border-bottom: none;">👩‍💻  About Me</h2>
 
-
-<h2 data-importer="text" align="left">👩‍💻  About Me</h2>
-
-
+###
 
 <p data-importer="text" align="left">I'm Suniyan from Kolkata<br><br>- 🔭 I’m working on personal projects that turn ideas into real-world applications<br>- 📚 I’m currently exploring full-stack development and modern JavaScript technologies<br>- ⚡ In my free time I like to watch cinema and listen music</p>
 
+###
 
+<h2 data-importer="text" align="left" style="border-bottom: none;">🛠 Language and tools</h2>
 
-<h2 data-importer="text" align="left">🛠 Language and tools</h2>
-
-
+###
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -64,9 +66,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
+###
 
-
-<h2 data-importer="text" align="left">🔥   My Contributions :</h2>
+<h2 data-importer="text" align="left" style="border-bottom: none;">🔥   My Contributions :</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -77,7 +79,7 @@
     src="https://raw.githubusercontent.com/SuniyanJana/SuniyanJana/output/github-snake.svg" />
 </picture>
 
-
+###
 
 <div align="center">
   <img src="./assets/blue-wave.svg" width="100%" alt="Blue animated wave" />

@@ -22,11 +22,13 @@
 
 ###
 
-<h3 data-importer="text" align="center">hey there 👋</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=hey%20there%20👋&fontSize=45&fontColor=ffffff&height=110&fontAlign=50&fontAlignY=45" width="100%" />
+</div>
 
 ###
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=👩‍💻%20About%20Me&fontSize=30&fontColor=ffffff&height=80&fontAlign=5&fontAlignY=55" width="100%" />
 
 ###
 
@@ -34,7 +36,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=🛠%20Language%20and%20tools&fontSize=30&fontColor=ffffff&height=80&fontAlign=5&fontAlignY=55" width="100%" />
 
 ###
 
@@ -68,7 +70,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">🔥   My Contributions :</h3>
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=🔥%20My%20Contributions%20:&fontSize=30&fontColor=ffffff&height=80&fontAlign=5&fontAlignY=55" width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)"

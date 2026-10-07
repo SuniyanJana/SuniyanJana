@@ -23,21 +23,13 @@
 ###
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&text=hey%20there%20👋&fontSize=20&fontColor=ffffff&height=45&fontAlign=50&fontAlignY=50" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&text=hey%20there%20👋&fontSize=20&fontColor=000000&height=45&fontAlign=50&fontAlignY=50" />
-    <img src="https://capsule-render.vercel.app/api?type=transparent&text=hey%20there%20👋&fontSize=20&fontColor=000000&height=45&fontAlign=50&fontAlignY=50" width="100%" />
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=hey%20there%20👋&fontSize=20&fontColor=2F81F7&height=45&fontAlign=50&fontAlignY=50" width="100%" alt="hey there" />
 </div>
 
 ###
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&text=About%20Me&fontSize=18&fontColor=ffffff&height=40&fontAlign=50&fontAlignY=45" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&text=About%20Me&fontSize=18&fontColor=000000&height=40&fontAlign=50&fontAlignY=45" />
-    <img src="https://capsule-render.vercel.app/api?type=transparent&text=About%20Me&fontSize=18&fontColor=000000&height=40&fontAlign=50&fontAlignY=45" width="90%" />
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=About%20Me&fontSize=18&fontColor=2F81F7&height=40&fontAlign=50&fontAlignY=45" width="90%" alt="About Me" />
 </div>
 
 ###
@@ -47,11 +39,7 @@
 ###
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&text=Language%20and%20tools&fontSize=18&fontColor=ffffff&height=40&fontAlign=50&fontAlignY=45" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&text=Language%20and%20tools&fontSize=18&fontColor=000000&height=40&fontAlign=50&fontAlignY=45" />
-    <img src="https://capsule-render.vercel.app/api?type=transparent&text=Language%20and%20tools&fontSize=18&fontColor=000000&height=40&fontAlign=50&fontAlignY=45" width="90%" />
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Language%20and%20tools&fontSize=18&fontColor=2F81F7&height=40&fontAlign=50&fontAlignY=45" width="90%" alt="Language and tools" />
 </div>
 
 ###
@@ -87,11 +75,7 @@
 ###
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&text=My%20Contributions%20:&fontSize=18&fontColor=ffffff&height=40&fontAlign=50&fontAlignY=45" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&text=My%20Contributions%20:&fontSize=18&fontColor=000000&height=40&fontAlign=50&fontAlignY=45" />
-    <img src="https://capsule-render.vercel.app/api?type=transparent&text=My%20Contributions%20:&fontSize=18&fontColor=000000&height=40&fontAlign=50&fontAlignY=45" width="90%" />
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=My%20Contributions%20:&fontSize=18&fontColor=2F81F7&height=40&fontAlign=50&fontAlignY=45" width="90%" alt="My Contributions" />
 </div>
 
 <picture>
